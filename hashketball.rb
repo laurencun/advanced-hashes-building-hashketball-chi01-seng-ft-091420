@@ -103,5 +103,3 @@ def game_hash
   }
   }
 end
-
-rspec spec/hashketball_spec.rb -e gam_hash
